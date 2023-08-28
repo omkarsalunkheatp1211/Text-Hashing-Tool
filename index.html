@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Text Hashing Tool</title>
+    <link rel="icon" type="images/x-icon" href="icon.ico" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Text Hashing Tool</h1>
+        <label for="algorithmSelect">Select an Algorithm:</label>
+        <select id="algorithmSelect">
+            <option value="MD5">MD5</option>
+            <option value="SHA1">SHA-1</option>
+            <option value="SHA224">SHA-224</option>
+            <option value="SHA256">SHA-256</option>
+            <option value="SHA384">SHA-384</option>
+            <option value="SHA512">SHA-512</option>
+            <option value="SHA3_224">SHA3-224</option>
+            <option value="SHA3_256">SHA3-256</option>
+            <option value="SHA3_384">SHA3-384</option>
+            <option value="SHA3_512">SHA3-512</option>
+            <option value="RIPEMD160">RIPEMD-160</option>
+        </select>
+        <textarea id="inputText" placeholder="Enter your text"></textarea>
+        <button id="hashButton">Hash</button>
+        <div id="output">
+            <h2>Hashed Text:</h2>
+            <div id="hashedText"></div>
+        </div>
+    </div>
+    <footer class="footer">
+        <p>&copy; 2023 <a href="https://github.com/omkarsalunkheatp1211" target="_blank">Omkar Salunkhe</a></p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>
