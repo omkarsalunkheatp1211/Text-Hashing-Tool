@@ -22,6 +22,8 @@ A simple web application that allows users to hash text using various cryptograp
 ![3](https://github.com/omkarsalunkheatp1211/Text-Hashing-Tool/assets/96873232/1d7c5b97-b076-49a6-b31a-d4f0cb4f990c)
 ![4](https://github.com/omkarsalunkheatp1211/Text-Hashing-Tool/assets/96873232/5c89bb62-4731-45b2-b325-5bd0d60a58f7)
 
+**Live Demo:** [Text Hashing Tool](https://omkarsalunkheatp1211.github.io/Text-Hashing-Tool/)
+
 ## Technologies Used
 
 - HTML
@@ -30,10 +32,6 @@ A simple web application that allows users to hash text using various cryptograp
 - [CryptoJS](https://cryptojs.gitbook.io/docs/) - JavaScript library for cryptographic operations
 
 ## Setup
-
-https://omkarsalunkheatp1211.github.io/Text-Hashing-Tool/
-
-OR
 
 Open your terminal or command prompt and Clone the repository to your local machine:
 ```javascript
