@@ -17,12 +17,13 @@ A simple web application that allows users to hash text using various cryptograp
 
 ## Preview
 
+**Live Demo:** [Text Hashing Tool](https://omkarsalunkheatp1211.github.io/Text-Hashing-Tool/)
+
 ![1](https://github.com/omkarsalunkheatp1211/Text-Hashing-Tool/assets/96873232/a700fd56-18d2-4628-ad00-5c2897e22436)
 ![2](https://github.com/omkarsalunkheatp1211/Text-Hashing-Tool/assets/96873232/49b1a5e8-f5ea-4306-9174-88ab50a26d4c)
 ![3](https://github.com/omkarsalunkheatp1211/Text-Hashing-Tool/assets/96873232/1d7c5b97-b076-49a6-b31a-d4f0cb4f990c)
 ![4](https://github.com/omkarsalunkheatp1211/Text-Hashing-Tool/assets/96873232/5c89bb62-4731-45b2-b325-5bd0d60a58f7)
 
-**Live Demo:** [Text Hashing Tool](https://omkarsalunkheatp1211.github.io/Text-Hashing-Tool/)
 
 ## Technologies Used
 
